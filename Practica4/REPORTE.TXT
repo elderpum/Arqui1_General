@@ -1,0 +1,15 @@
+
+---------------------REPORTE---------------------$
+$
+-------------------------------------------------$
+$
+Resumen de Datos obtenidos mediante el archivo leido$
+Numero de Diptongos: $19$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Numero de Triptongos: $5$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Numero de Hiatos: $9$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Numero de Palabras: $88$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Proporcion de Diptongos: $21$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Proporcion de Hiatos: $10$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Proporcion de Triptongos: $10$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$
+-------------------------------------------------$
